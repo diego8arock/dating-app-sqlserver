@@ -1,0 +1,2 @@
+angular: ng serve --watch
+dotnet: dotnet watch run
