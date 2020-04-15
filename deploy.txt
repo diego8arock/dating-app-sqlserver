@@ -1,7 +1,8 @@
 API:
 dotnet publish -c Release -o ./publish
-Publish to web app
+Publish to web app folder publish
+Delete folder to republish
 
 SPA:
 ng build --prod --build-optimizer
-Publish to static page
+Publish to static page folder dist/DatingApp-SAP
