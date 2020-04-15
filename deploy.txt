@@ -1,0 +1,7 @@
+API:
+dotnet publish -c Release -o ./publish
+Publish to web app
+
+SPA:
+ng build --prod --build-optimizer
+Publish to static page
